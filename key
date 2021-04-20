@@ -1,0 +1,18 @@
+{
+    "home": {
+        "access":"igVDxSWVHawc0NSeG4GlwByqIwMCeKgNl55xjxpN",
+        "secret":"z6aqN8xvht4xY99VNsuCsbcxqgI2z0JdHxGgnixx"
+    },
+    "lab": {
+        "access":"uzm9Y88q9Giq9Pr3LAL4orkDEoLAuHjvUL2VuToo",
+        "secret":"xhxWXYL0qNU5JcwUIJFa1jyfpG7pSXWm8sLKaqe5"
+    },
+    "academy": {
+        "access":"i7SpnbuLlYfmL1rZLUfZxxNvE95T4vfOHqIUsyqE",
+        "secret":"ZF0dXk4xxKefSIJFDouPojTchrKpdJxNkOgKZhZI"
+    },
+    "telegram": {
+        "token":"1697466514:AAGpkhzP4WZTZi2ejxK3oTUU56Cs6b-NoCM",
+        "chat_id":"1169772729"
+    }
+}
